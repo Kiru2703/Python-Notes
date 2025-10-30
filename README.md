@@ -11,8 +11,8 @@ This repository includes the following PDF resources:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | File Name                                   | Description                                                                                                      |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| `Programming with Python.pdf`               | Covers Python basics, data types, control structures, functions, strings, lists, tuples, sets, and dictionaries. |
 | `Intro to Algorithms & Problem Solving.pdf` | Explains pseudocode, flowcharts, IPO charts, selection and repetition structures, and algorithm design.          |
+| `Programming with Python.pdf`               | Covers Python basics, data types, control structures, functions, strings, lists, tuples, sets, and dictionaries. |
 | `File & Exception Handling.pdf`             | Details file operations, modes, reading/writing, exceptions, try-except-finally blocks, and logging.             |
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---
